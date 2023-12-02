@@ -1,7 +1,7 @@
 # flexer-unicode-regular-expressions
 A python script built for generating flexer-compatible regular expressions to capture all the unicode code points in specific general categories.
 
-This script was used in the development of the cooklang-in-c project.
+This script was used in the development of the cooklang-c project.
 
 
 ## How it Works
